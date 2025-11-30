@@ -1,0 +1,46 @@
+{
+  "faqs": [
+    {
+      "id": "f01",
+      "category": "Delivery",
+      "question": "Do you offer delivery?",
+      "answer": "Yes, we deliver through FoodPanda and our own fleet within 5km."
+    },
+    {
+      "id": "f02",
+      "category": "Payment",
+      "question": "What payment methods do you accept? How can I pay?",
+      "answer": "We accept cash, credit/debit cards, and mobile payments."
+    },
+    {
+      "id": "f03",
+      "category": "Reservations",
+      "question": "Do I need to make a reservation?",
+      "answer": "Reservations are recommended for weekends, but walk-ins are always welcome!"
+    },
+    {
+      "id": "f04",
+      "category": "Dietary",
+      "question": "Do you have vegetarian options?",
+      "answer": "Yes! We have a variety of vegetarian pizzas, pastas, and burgers. Check our menu for details."
+    },
+    {
+      "id": "f05",
+      "category": "Dietary",
+      "question": "Is your food Halal?",
+      "answer": "Yes, all our meat is 100% Halal certified."
+    },
+    {
+      "id": "f06",
+      "category": "Parking",
+      "question": "Do you have parking?",
+      "answer": "Yes, we have a dedicated parking lot for our customers."
+    },
+    {
+      "id": "f07",
+      "category": "Contact",
+      "question": "How can I contact you?",
+      "answer": "You can call us at our branch numbers or email us at contact@speedybites.com."
+    }
+  ]
+}
